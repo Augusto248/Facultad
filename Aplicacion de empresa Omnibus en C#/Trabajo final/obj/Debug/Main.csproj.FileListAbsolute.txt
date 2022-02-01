@@ -1,0 +1,18 @@
+C:\Users\augus\Documents\SharpDevelop Projects\Trabajo final\Trabajo final\bin\Debug\Main.exe.config
+C:\Users\augus\Documents\SharpDevelop Projects\Trabajo final\Trabajo final\bin\Debug\Main.exe
+C:\Users\augus\Documents\SharpDevelop Projects\Trabajo final\Trabajo final\bin\Debug\Main.pdb
+C:\Users\augus\Documents\SharpDevelop Projects\Trabajo final\Trabajo final\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\augus\Documents\SharpDevelop Projects\Trabajo final\Trabajo final\obj\Debug\Main.exe
+C:\Users\augus\Documents\SharpDevelop Projects\Trabajo final\Trabajo final\obj\Debug\Main.pdb
+C:\Users\Alumnos-UNAJ\Desktop\Trabajo final\Trabajo final\bin\Debug\Main.exe.config
+C:\Users\Alumnos-UNAJ\Desktop\Trabajo final\Trabajo final\bin\Debug\Main.exe
+C:\Users\Alumnos-UNAJ\Desktop\Trabajo final\Trabajo final\bin\Debug\Main.pdb
+C:\Users\Alumnos-UNAJ\Desktop\Trabajo final\Trabajo final\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-UNAJ\Desktop\Trabajo final\Trabajo final\obj\Debug\Main.exe
+C:\Users\Alumnos-UNAJ\Desktop\Trabajo final\Trabajo final\obj\Debug\Main.pdb
+C:\Users\augus\Desktop\arreglado\Trabajo final\Trabajo final\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\augus\Desktop\arreglado\Trabajo final\Trabajo final\obj\Debug\Main.exe
+C:\Users\augus\Desktop\arreglado\Trabajo final\Trabajo final\bin\Debug\Main.exe.config
+C:\Users\augus\Desktop\arreglado\Trabajo final\Trabajo final\bin\Debug\Main.exe
+C:\Users\augus\Desktop\arreglado\Trabajo final\Trabajo final\bin\Debug\Main.pdb
+C:\Users\augus\Desktop\arreglado\Trabajo final\Trabajo final\obj\Debug\Main.pdb
